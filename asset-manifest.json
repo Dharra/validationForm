@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dharra/validationForm.git/static/css/main.b8a7a8f7.css",
+    "main.js": "/Dharra/validationForm.git/static/js/main.5bed0b52.js",
+    "index.html": "/Dharra/validationForm.git/index.html",
+    "main.b8a7a8f7.css.map": "/Dharra/validationForm.git/static/css/main.b8a7a8f7.css.map",
+    "main.5bed0b52.js.map": "/Dharra/validationForm.git/static/js/main.5bed0b52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a7a8f7.css",
+    "static/js/main.5bed0b52.js"
+  ]
+}
